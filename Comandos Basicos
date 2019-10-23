@@ -1,0 +1,11 @@
+
+1) da web para máquina local:
+git pull origin master
+
+2) de máquina local para web:
+git add arquivo
+git commit -m "comentários"
+git push origin master
+git status
+
+
